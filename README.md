@@ -17,5 +17,6 @@ Link:
 [Kodluyoruz](https://www.kodluyoruz.org/)
 
 Image/Gorsel:
-![Ornek Resim](url)
+![Proje Resmi](https://www.hizliresim.com/92lnig5)
+
 ![Lorem Picsum](https://picsum.photos/200/300)
